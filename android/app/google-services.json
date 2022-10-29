@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323163294705",
+    "project_id": "fastcash-9feba",
+    "storage_bucket": "fastcash-9feba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323163294705:android:d9c251924b66e189705250",
+        "android_client_info": {
+          "package_name": "com.secanonm.fastcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323163294705-bki026ii3ckp1c44t78solrkqti2epho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANe0aiceu1ntma-Vx3kEKQBGLnasbGdss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323163294705-bki026ii3ckp1c44t78solrkqti2epho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
